@@ -1,7 +1,6 @@
 # SSIOSK
 ### 시·청각장애인 친화적 키오스크 - SSAFY 2학기 공통 프로젝트
-<img src="https://file.notion.so/f/s/a7e7e7e9-8a1f-4ea4-8053-4456c61cf95f/logo.png?id=28d5192b-0b72-4dce-808a-37a6411c9379&table=block&spaceId=94a85aaa-279e-4ded-a0e5-58be99911f56&expirationTimestamp=1692381600000&signature=dwHtvc5QJ2bmAe6fmoUXcSYd3B5RY21GoQZRIEoT_hQ&downloadName=logo.png" width="300">
-<br><br><br><br>
+![logo](https://github.com/DeadBBall/ssiosk/assets/89844277/78d54c4d-c766-48f9-9f86-b617c9386ad8)
 
 ## 프로젝트 개요
 일상생활에서 많은 불편함을 느끼는 시·청각장애인은 다른 이의 도움 없인 매장에서 주문하는 것조차 힘듭니다.
@@ -24,7 +23,8 @@ SSIOSK는 시각장애인 친화적인 키오스크로, 점자 디스플레이�
 
 ## 팀 소개
 ### 팀 로고
-<img src="https://file.notion.so/f/s/4107b7dd-db37-49a2-8d8b-2a4ce073fb14/logo-removebg-preview.png?id=ee040519-85e7-4247-9df1-873e3dbcd0fc&table=block&spaceId=94a85aaa-279e-4ded-a0e5-58be99911f56&expirationTimestamp=1692381600000&signature=fBPEYIm-942VPWuVm5vcwYrWn7xNuTa8vOjOMGZN_7k&downloadName=logo-removebg-preview.png" width="300">
+![logo-removebg-preview](https://github.com/DeadBBall/ssiosk/assets/89844277/aa155b0e-384c-4d76-9672-07b786c2710b)
+
 <br><br><br><br>
 
 ### 팀 개발새발
@@ -41,12 +41,10 @@ SSIOSK는 시각장애인 친화적인 키오스크로, 점자 디스플레이�
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/springdatajpa-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white">
@@ -54,7 +52,6 @@ SSIOSK는 시각장애인 친화적인 키오스크로, 점자 디스플레이�
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
 <img src="https://img.shields.io/badge/STM32CUBE-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
@@ -74,15 +71,15 @@ SSIOSK는 시각장애인 친화적인 키오스크로, 점자 디스플레이�
 <br><br><br><br>
 
 ## 인프라
-<img src="https://file.notion.so/f/s/4f401f05-0331-4e63-9fb9-6739680875e4/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png?id=591d6906-b37f-4ee0-8c1b-4b61e4980c81&table=block&spaceId=94a85aaa-279e-4ded-a0e5-58be99911f56&expirationTimestamp=1692410400000&signature=72Wc_JKBtAS6bSEEHAODy5By_gKSHqTXoCSe3_w_Aio&downloadName=%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png" width=800>
+![아키텍처](https://github.com/DeadBBall/ssiosk/assets/89844277/b4385cc4-30b9-4a41-9d1a-0d221ff8bfc6)
 <br><br><br><br>
 
 ## ERD
-![image](/uploads/f7bbd17c174162c1fdc5dfc321b18a7f/image.png)
+![image](https://github.com/DeadBBall/ssiosk/assets/89844277/a6738274-96cb-4098-aa4c-0ab5ffeed100)
 <br><br><br><br>
 
 ## 배포 주소
-https://i9a201.p.ssafy.io
+~~https://i9a201.p.ssafy.io~~
 <br><br><br><br>
 
 ## 주요 기능 소개
@@ -91,22 +88,22 @@ https://i9a201.p.ssafy.io
 
 #### 사장님은 키오스크에서 최초 실행 시에 해당 테이블이 몇 번 테이블인지 매칭해주어야 합니다.
 <br>
-![image-8](/uploads/5e4492703141fc7ae86fc779f331a20c/image-8.png)
+
+![image-8](https://github.com/DeadBBall/ssiosk/assets/89844277/04310eed-7caa-43cf-9a3e-8835113af618)
 <br><br>
 
 ### 1. 조이스틱 조작
 #### 조이스틱만으로 메뉴를 선택하고 수량을 변경하여 주문이 가능합니다.
 <br><br>
 
-![rn_image_picker_lib_temp_1ceb4df9-3ffa-473b-b03b-aabba7437338](/uploads/1d5b4608a8bffdc035146dad2b30c7bf/rn_image_picker_lib_temp_1ceb4df9-3ffa-473b-b03b-aabba7437338.gif)
+![rn_image_picker_lib_temp_1ceb4df9-3ffa-473b-b03b-aabba7437338](https://github.com/DeadBBall/ssiosk/assets/89844277/09157224-8b7b-405b-b734-28985cbebece)
 <br><br><br><br>
 
 
 ### 2. TTS 음성 안내
 #### 이어폰 연결 시 조이스틱 조작 방법과 메뉴에 대한 안내를 음성으로 들을 수 있습니다.
 <br><br>
-
-![output](/uploads/5c6438bc4829b202f7aa9bc95345120f/output.wav)
+https://github.com/DeadBBall/ssiosk/blob/main/presentation/output.wav
 <br><br><br><br>
 
 
@@ -114,7 +111,8 @@ https://i9a201.p.ssafy.io
 #### 조이스틱 조작 방법과 메뉴에 대한 안내를 점자 디스플레이로 확인 가능하고, 버튼을 통해 이전과 다음 점자 출력이 가능합니다.
 <br><br>
 
-![rn_image_picker_lib_temp_e7ffaadf-c007-4736-802e-b61dc22ba75f](/uploads/79b44687dee0fcc61a8b43b3e3dfc376/rn_image_picker_lib_temp_e7ffaadf-c007-4736-802e-b61dc22ba75f.gif)
+![rn_image_picker_lib_temp_e7ffaadf-c007-4736-802e-b61dc22ba75f](https://github.com/DeadBBall/ssiosk/assets/89844277/58b6d0df-9681-4aa8-a666-200e3f4d4f1a)
+
 <br><br><br><br>
 
 ### 4. 저시력 장애인 UI
@@ -122,15 +120,17 @@ https://i9a201.p.ssafy.io
 <br><br>
 
 #### - 기본 화면
-![image](/uploads/a2797446bc3ca47eee7c54f05c8991bb/image.png)
+![image (1)](https://github.com/DeadBBall/ssiosk/assets/89844277/de5cb08b-7305-4fa3-9ef4-1641a27673ae)
+
 <br><br>
 
 #### - 메뉴 선택
-![image-1](/uploads/1ac8f7d21085bf459059330a4a192ca2/image-1.png)
+![image-1](https://github.com/DeadBBall/ssiosk/assets/89844277/9481745e-f8d1-4f7b-9c5f-b926dd0f8a85)
 <br><br>
 
 #### - 주문하기
-![image-2](/uploads/aa575eda6422b435c7442ec56396f22c/image-2.png)
+![image-2](https://github.com/DeadBBall/ssiosk/assets/89844277/26ce0348-592f-427b-b557-7952af2bcf02)
+
 <br><br><br><br>
 
 ### 5. 비장애인 UI
@@ -138,23 +138,28 @@ https://i9a201.p.ssafy.io
 <br><br>
 
 #### - 기본 화면
-![image-3](/uploads/959ab770e37743950c9175545df8a8a3/image-3.png)
+![image-3](https://github.com/DeadBBall/ssiosk/assets/89844277/c586cc3e-369c-42ce-b7f3-4ba0005dbe7a)
+
 <br><br>
 
 #### - 메뉴 선택
-![image-4](/uploads/b38b5dc0042e55374f73cb70443f9c74/image-4.png)
+![image-4](https://github.com/DeadBBall/ssiosk/assets/89844277/047442e8-7cde-4a97-ab5f-a578d164ec83)
+
 <br><br>
 
 #### - 주문하기
-![image-5](/uploads/749c719000170d7461d4edafa23dff4f/image-5.png)
+![image-5](https://github.com/DeadBBall/ssiosk/assets/89844277/8c29c51d-8229-4123-812d-a797bc349684)
+
 <br><br>
 
 #### - 주문 완료 후
-![image-6](/uploads/2b47290469c6a13f6fbe8284bf335e0b/image-6.png)
+![image-6](https://github.com/DeadBBall/ssiosk/assets/89844277/900fbd06-8893-49ad-b8dd-e124fbc72fee)
+
 <br><br>
 
 #### - 주문 내역
-![image-7](/uploads/53d61748fe19a4d2bc250429b3073565/image-7.png)
+![image-7](https://github.com/DeadBBall/ssiosk/assets/89844277/a06fb865-7ba7-4fcc-940e-d873903b4c27)
+
 <br><br><br><br>
 
 ### 6. 관리자 페이지
@@ -162,32 +167,39 @@ https://i9a201.p.ssafy.io
 <br><br>
 
 #### - 로그인 화면
-![image-9](/uploads/b193dc52be9b9998864d7104d59c82a7/image-9.png)
+![image-9](https://github.com/DeadBBall/ssiosk/assets/89844277/9db1ccdb-f0c6-44db-b9a0-5de90aeb5629)
+
 <br><br>
 
 #### - 테이블 페이지
-![image-10](/uploads/023b464a8820feecb00ca5135e39a05e/image-10.png)
+![image-10](https://github.com/DeadBBall/ssiosk/assets/89844277/4f91e19b-cc96-4bd2-9bf3-92a8da2ead5a)
+
 <br><br>
 
 #### - 테이블 선택
-![image-11](/uploads/62b8968dcf60b8661e788129bf23bce5/image-11.png)
+![image-11](https://github.com/DeadBBall/ssiosk/assets/89844277/d6d03098-f1b4-45fb-81ab-7ae2f8dd82a3)
+
 <br><br>
 
 #### - 관리 페이지
-![image-12](/uploads/05d61d0fee2c7ff5e0366f13efecad83/image-12.png)
+![image-12](https://github.com/DeadBBall/ssiosk/assets/89844277/4f663187-a0b6-4195-9a33-bb4670981098)
+
 <br><br>
 
 #### - 메뉴 수정, 삭제
-![image-13](/uploads/52df9fad81471e61c8cc1d0eec1fc8cf/image-13.png)
+![image-13](https://github.com/DeadBBall/ssiosk/assets/89844277/1a17870c-38f7-444b-a204-601bbd1a36b8)
+
 <br><br>
 
 #### - 카테고리 추가 및 수정, 삭제
-![image-14](/uploads/116e05215a8e9f5ffed42c66dca6b345/image-14.png)
+![image-14](https://github.com/DeadBBall/ssiosk/assets/89844277/7a4dfe7e-1baf-48f3-81dd-633392c3ca69)
+
 <br><br>
 
 #### - 메뉴 추가
-![image-15](/uploads/cf35eee4c40c25d18249a5c4a3334037/image-15.png)
+![image-15](https://github.com/DeadBBall/ssiosk/assets/89844277/a260785c-b44a-4de2-bdf0-d98b0c768d27)
+
 <br><br><br><br>
 
 ### 7. 에러 페이지
-![Animation](/uploads/7d252effa29fa0387104db5a4d0ab7f7/Animation.gif)
+![Animation (1)](https://github.com/DeadBBall/ssiosk/assets/89844277/0a63a2f2-95d3-4863-8d3e-e0a8d2d8102d)
